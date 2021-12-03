@@ -20,3 +20,5 @@ Aakash Wagle   16010120112
 ![image](https://user-images.githubusercontent.com/66900011/144636930-3597a9a8-6f70-403f-a127-7b551a0a8575.png)
 ![image](https://user-images.githubusercontent.com/66900011/144636945-3cadd496-297d-4a47-b087-33b22d223b2a.png)
 ![image](https://user-images.githubusercontent.com/66900011/144636955-7b9a351b-6ba4-4a4f-9f19-5e6bcefffdd6.png)
+
+We would like to thanks Prof. Vaibhav Vasani and Prof. Swapnil Pawar for the guidance and support throughout the semester in Data Visualization honours course.
